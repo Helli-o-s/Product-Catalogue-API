@@ -1,4 +1,4 @@
-Product Catalog API - Submitted By: Rajeev Nair , PH: 7350635998, Email: rajeev.nair209@gmail.com
+Product Catalog API 
 --------------------------
 This project implements a RESTful API for managing a product catalog. 
 The product catalog supports complex product attributes like categories, 
