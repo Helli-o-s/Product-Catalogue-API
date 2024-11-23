@@ -29,8 +29,7 @@ Before setting up the application, ensure the following are installed:
 
 Setup Instructions
 ----------------------
-	1) Clone the Repository From the Drive Link:
-	    https://drive.google.com/drive/folders/1rfmweTTqeHT-T-zJ8age3pDMM3tB-YqP?usp=drive_link
+	1) Clone the Repository.
 	
 	2) Install Dependencies:
 	    Install required dependencies using Maven.
